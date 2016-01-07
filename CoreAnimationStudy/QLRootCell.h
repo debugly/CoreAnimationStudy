@@ -1,5 +1,5 @@
 //
-//  FirstViewController.h
+//  QLRootCell.h
 //  CoreAnimationStudy
 //
 //  Created by qianlongxu on 16/1/7.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface FirstViewController : UIViewController
-
+@interface QLRootCell : UITableViewCell
 
 @end
-
